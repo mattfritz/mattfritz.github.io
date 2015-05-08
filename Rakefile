@@ -8,7 +8,7 @@ task :post do
   file = File.join(
     File.dirname(__FILE__),
     '_posts',
-    slug + '.markdown'
+    slug + '.md'
   )
 
   File.open(file, "w") do |f|
