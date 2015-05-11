@@ -1,6 +1,6 @@
 # Site settings
 title:       Matt Fritz
-email:       mfritzer@gmail.com
+email:
 author:      Matt Fritz
 description: ""
 baseurl:     ""
@@ -19,7 +19,7 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username: mattfritz
 stackoverflow_id:
 twitter_username: mattfritzy
